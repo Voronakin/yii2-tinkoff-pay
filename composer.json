@@ -15,7 +15,7 @@
         "ext-curl": "*",
         "ext-mbstring": "*",
         "ext-json": "*",
-        "roave/security-advisories": "dev-master",
+        "roave/security-advisories": "dev-latest",
         "yiisoft/yii2": "~2.0.14"
     },
     "autoload": {
